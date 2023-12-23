@@ -1,4 +1,4 @@
-"""Fixtures for the Scrape integration."""
+"""Fixtures for the System Monitor integration."""
 from __future__ import annotations
 
 from collections.abc import Generator
